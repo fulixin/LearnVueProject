@@ -4,7 +4,7 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import Vconsole from 'vconsole'
-//手机端显示log日志
+// 手机端显示log日志
 // eslint-disable-next-line
 new Vconsole()
 
